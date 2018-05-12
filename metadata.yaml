@@ -1,0 +1,33 @@
+_repo: Sixteen-Months-in-Four-German-Prisons--Wesel-Sennelager-Klingelputz-Ruhleben_18134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talbot, Frederick Arthur Ambrose
+    birthdate: 1880
+    gutenberg_agent_id: '417'
+    url: http://www.gutenberg.org/2009/agents/417
+  editor:
+    agent_name: Mahoney, Henry Charles
+    gutenberg_agent_id: '7829'
+    url: http://www.gutenberg.org/2009/agents/7829
+description: ''
+gutenberg_bookshelf:
+- Germany
+- World War I
+gutenberg_issued: '2006-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18134'
+  lccn: '17007955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons'
+title: 'Sixteen Months in Four German Prisons: Wesel, Sennelager, Klingelputz, Ruhleben'
+url: http://www.gutenberg.org/ebooks/18134
